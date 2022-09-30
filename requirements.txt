@@ -24,7 +24,7 @@ jax==0.1.44
 jaxlib==0.1.27
 jedi==0.15.1
 Jinja2==2.10.1
-joblib==0.14.1
+joblib==1.2.0
 jsonschema==3.0.2
 jupyter==1.0.0
 jupyter-client==5.3.1
